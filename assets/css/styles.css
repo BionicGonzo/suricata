@@ -1,0 +1,75 @@
+/* NAVEGACIÓN */
+
+.logo {
+    width: 150px;
+}
+
+/* PRINCIPAL */
+
+header h1 {
+    text-align: center;
+    font-family: 'Open Sans';
+    font-size: 50px;
+    font-weight: 700;
+    color: #707070;
+}
+
+.card {
+    margin: 40px;
+}
+
+.card h5 {
+    font-family: 'Open Sans';
+    font-size: 17px;
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.card p {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 400;
+    color: #373A3C;
+}
+
+.card li {
+    font-family: 'Open Sans';
+    font-size: 11px;
+    font-weight: 400;
+    color: #373A3C;
+}
+
+.card a {
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-size: 11px;
+    font-weight: 400;
+    color: #1C7CD5;
+}
+
+/* PIE DE PÁGINA */
+
+.mediosdepago {
+    background-color: #17A2B8;
+}
+
+.mediosdepago p {
+    font-family: 'Open Sans';
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.mediosdepago i {
+    font-size: 60px;
+    margin: 0 10px;
+}
+
+.suricatafooter {
+    background-color: #E83E8C;
+    text-align: center;
+}
+
+.suricatafooter img {
+    width: 40px;
+
+}
